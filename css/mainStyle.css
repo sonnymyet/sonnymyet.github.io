@@ -3,19 +3,16 @@ body{
     
 }
 
-
 .section{
-    
-    margin: 75px auto 0px;
-    width: 100%;
-    font-weight: bold;
-    text-align: center;
+    margin-top: 75px;
+    padding-top: 50px;
+    height: 800px;
     color: floralwhite;
     background-color: aliceblue;  
 }
 
 #welcome{
-    background-image: url("../images/wasd.jpg");
+    background-image: url("../images/bracketFace.png");
     background-repeat: no-repeat;
     background-position: center;
 }
