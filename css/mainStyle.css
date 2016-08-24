@@ -1,0 +1,33 @@
+body{
+    background-image: url("../images/type.png");
+    
+}
+
+
+.section{
+    
+    margin: 75px auto 0px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    color: floralwhite;
+    background-color: aliceblue;  
+}
+
+#welcome{
+    background-image: url("../images/wasd.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#portfolio{
+    background-image: url("../images/network.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#contact{
+    background-image: url("../images/01010.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
